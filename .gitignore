@@ -1,4 +1,8 @@
 *.pyc
-./runs/*
-./__pycache__/*
+runs/
+__pycache__/
 .idea
+runs
+checkpoints/
+Ranking.py
+train.py
