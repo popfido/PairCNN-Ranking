@@ -1,0 +1,4 @@
+*.pyc
+./runs/*
+./__pycache__/*
+.idea
